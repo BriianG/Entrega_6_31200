@@ -1,0 +1,14 @@
+.fondo {
+    margin: 0;
+    background-color: gray;
+    display: block;
+}
+
+.icon-styles{
+    color: black;
+    font-style: italic;
+    font-size: 25px;
+    
+
+
+}
